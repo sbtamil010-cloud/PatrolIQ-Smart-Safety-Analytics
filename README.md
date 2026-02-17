@@ -1,15 +1,3 @@
-Perfect 👏 Tamil Mani — below is your **final, professional, evaluator-ready `README.md`**.
-
-This version is:
-
-* 🔥 Capstone-level
-* 🔥 Industry structured
-* 🔥 Resume powerful
-* 🔥 Live evaluation ready
-
-You can copy-paste this directly into `README.md`.
-
----
 
 # 🚓 PatrolIQ – Smart Safety Analytics Platform
 
